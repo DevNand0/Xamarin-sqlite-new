@@ -1,0 +1,15 @@
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\bin\Debug\netstandard2.0\SqliteCreateList.deps.json
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\bin\Debug\netstandard2.0\SqliteCreateList.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\bin\Debug\netstandard2.0\ref\SqliteCreateList.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\bin\Debug\netstandard2.0\SqliteCreateList.pdb
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\ref\SqliteCreateList.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-sqlite-new\SqliteCreateList\SqliteCreateList\SqliteCreateList\obj\Debug\netstandard2.0\SqliteCreateList.pdb
