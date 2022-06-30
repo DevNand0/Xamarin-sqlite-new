@@ -1,0 +1,2 @@
+esta aplicacion es usando xamarin con sqlite basico, instalando en el nuget la libreria de (sqlite-net-pcl)
+despues de desargar este proyecto hay que dejarlo a fuera de la carpeta Xamarin-sqlite-new
